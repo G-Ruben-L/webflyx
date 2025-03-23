@@ -6,3 +6,4 @@
 - Baron Vladimir Harkonnen
 # Planets
 - Arrakis
+- Caladan
